@@ -13,6 +13,7 @@
     + My favorite book: *Spring Snow* by *Yukio Mishima*
     + One book I recommend for everyone if you are concerned about your life: *Being Mortal* by *Atul Gawande*
     + Movies I recommend: *Drive My Car*, *Into the Wild*, *Past Lives*, *The Whale* ...
-    + I cook, I drive, I take photos, I enjoy morning coffee with milk, a lot
+    + I cook, I drive, I take photos, I enjoy morning coffee with milk, a lot.
+    + I use **Vim** in **all** IDEs
 
 [//]: # (-->)
