@@ -22,7 +22,7 @@
 - <img src="/assets/nvidiasvg.svg" alt="NVIDIA Icon" width="70" height=""/>**[NVIDIA Certified Associate: Gen AI LLMs](https://www.credly.com/badges/7888db78-0c96-419f-be0b-04ba81cebf68/public_url)**
 - <img src="/assets/ckad.png" alt="CKAD ICON" width="40">**Certified Kubernetes Application Developer**
 
-## 🚀Tech Stack
+## 🚀 Tech Stack
 - Programming:
   + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/> 
@@ -49,9 +49,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
-          
-          
-          
+
+## 📊 Activities
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IanZC0der&theme=minimal)](https://github.com/IanZC0der)
+
           
       
           
