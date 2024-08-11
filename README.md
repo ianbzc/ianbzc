@@ -52,7 +52,7 @@
 
 ## 📊 Activities
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IanZC0der&theme=minimal)](https://github.com/IanZC0der)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianbzc&theme=minimal)](https://github.com/IanZC0der)
 
           
       
