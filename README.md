@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanZC0der&layout=compact&hide=java" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbzc&layout=compact&hide=java" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently pursuing a master's degree in CS in Dallas, US
 - 🌱 I’m currently learning microservices, distrbuted systems
