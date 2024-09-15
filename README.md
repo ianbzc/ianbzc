@@ -19,6 +19,8 @@
 [//]: # (-->)
 
 ## Certifications
+
+- <img src="/assets/aws-cert.png" alt="NVIDIA Icon" width="40" height=""/>**[AWS Certified Developer-Associate](https://www.credly.com/badges/65f98bd8-b743-41c9-a66f-3096be288a1b/public_url)**
 - <img src="/assets/nvidiasvg.svg" alt="NVIDIA Icon" width="70" height=""/>**[NVIDIA Certified Associate: Gen AI LLMs](https://www.credly.com/badges/7888db78-0c96-419f-be0b-04ba81cebf68/public_url)**
 - <img src="/assets/ckad.png" alt="CKAD ICON" width="40">**[Certified Kubernetes Application Developer](https://www.credly.com/badges/6b63f550-76af-4180-a80c-fb7701ef1a51/public_url)**
 
