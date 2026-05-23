@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbzc&layout=compact&hide=java" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I'm a Software Engineer working on hardware enablement.
 - ⚡ You might want to know:
